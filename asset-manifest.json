@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ICDb/static/css/main.334bdeb1.css",
-    "main.js": "/ICDb/static/js/main.077e2e02.js",
+    "main.js": "/ICDb/static/js/main.70fc4eaf.js",
     "index.html": "/ICDb/index.html",
     "static/media/search.svg": "/ICDb/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.334bdeb1.css.map": "/ICDb/static/css/main.334bdeb1.css.map",
-    "main.077e2e02.js.map": "/ICDb/static/js/main.077e2e02.js.map"
+    "main.70fc4eaf.js.map": "/ICDb/static/js/main.70fc4eaf.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.077e2e02.js"
+    "static/js/main.70fc4eaf.js"
   ]
 }
